@@ -43,6 +43,7 @@ class _MyAppState extends State<MyApp> {
         {'text': 'Seather', 'score': 7}
       ],
     },
+<<<<<<< HEAD
     {
       'questionText': 'who\'s your favorite singer?',
       'answers': [
@@ -52,6 +53,8 @@ class _MyAppState extends State<MyApp> {
         {'text': 'Natasha Badingfield', 'score': 7}
       ],
     },
+=======
+>>>>>>> 3246a912ce433fc1782184ac653d21874eb53576
   ];
   var _questionIndex = 0;
   var _totalScore = 0;
